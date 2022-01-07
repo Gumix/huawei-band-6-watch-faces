@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchface>
+    <element label="background" is_support_option="false" res_preview=""/>
+    <element label="time" is_support_option="false">
+        <layer label="Min_low" draw_type="selected_res" res_active="A100_002.png,A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png,A100_009.png,A100_010.png,A100_011.png" index="0" value_type="62" res_position="106,198"/>
+        <layer label="Min_high" draw_type="selected_res" res_active="A100_002.png,A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png" index="1" value_type="61" res_position="27,198"/>
+        <layer label="Hour_low" draw_type="selected_res" res_active="A100_002.png,A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png,A100_009.png,A100_010.png,A100_011.png" index="2" value_type="60" res_position="106,74"/>
+        <layer label="Hour_high" draw_type="selected_res" res_active="A100_002.png,A100_003.png,A100_004.png" index="3" value_type="59" res_position="27,74"/>
+    </element>
+</watchface>

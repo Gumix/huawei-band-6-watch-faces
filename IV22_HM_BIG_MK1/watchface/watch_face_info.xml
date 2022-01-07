@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>IV22_HM_BIG_MK1</title>
+    <title-cn>IV-22 H:M BIG MK1</title-cn>
+    <author>Gumix</author>
+    <designer>Gumix</designer>
+    <screen>HWHD07</screen>
+    <version>2.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"ru_RU":"Вакуумно-люминесцентный индикатор ИВ-22","en_US":"Vacuum Fluorescent Display IV-22"}</briefinfo>
+</HwTheme>
