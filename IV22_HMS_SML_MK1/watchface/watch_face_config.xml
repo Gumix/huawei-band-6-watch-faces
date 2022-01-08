@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchface>
+    <element label="background" is_support_option="false" res_preview="">
+        <layer draw_type="single_res" res_active="A100_002.png" res_position="63,174" label="Dot1" index="0"/>
+        <layer draw_type="single_res" res_active="A100_002.png" res_position="62,188" label="Dot2" index="1"/>
+        <layer draw_type="single_res" res_active="A100_002.png" res_position="127,174" label="Dot3" index="2"/>
+        <layer draw_type="single_res" res_active="A100_002.png" res_position="126,188" label="Dot4" index="3"/>
+    </element>
+    <element label="time" is_support_option="false">
+        <layer draw_type="selected_res" res_active="A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png,A100_009.png,A100_010.png,A100_011.png,A100_012.png" res_position="164,167" label="Sec_low" value_type="64" index="0"/>
+        <layer draw_type="selected_res" res_active="A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png" res_position="137,167" label="Sec_high" value_type="63" index="1"/>
+        <layer draw_type="selected_res" res_active="A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png,A100_009.png,A100_010.png,A100_011.png,A100_012.png" res_position="100,167" label="Min_low" value_type="62" index="2"/>
+        <layer draw_type="selected_res" res_active="A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png" res_position="73,167" label="Min_high" value_type="61" index="3"/>
+        <layer draw_type="selected_res" res_active="A100_003.png,A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png,A100_009.png,A100_010.png,A100_011.png,A100_012.png" res_position="36,167" label="Hour_low" value_type="60" index="4"/>
+        <layer draw_type="selected_res" res_active="A100_003.png,A100_004.png,A100_005.png" res_position="9,167" label="Hour_high" value_type="59" index="5"/>
+    </element>
+</watchface>
