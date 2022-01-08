@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchface>
+    <element res_preview="" label="background" is_support_option="false">
+        <layer label="Dot1" draw_type="single_res" res_position="94,94" index="0" res_active="A100_002.png"/>
+        <layer label="Dot2" draw_type="single_res" res_position="92,114" index="1" res_active="A100_002.png"/>
+        <layer label="Dot3" draw_type="single_res" res_position="91,277" index="2" res_active="A100_002.png"/>
+    </element>
+    <element label="date" is_support_option="false">
+        <layer label="Month" value_type="92" draw_type="selected_res" res_position="111,236" index="0" res_active="A100_004.png,A100_005.png,A100_006.png,A100_007.png,A100_008.png,A100_009.png,A100_010.png,A100_011.png,A100_012.png,A100_013.png,A100_014.png,A100_003.png"/>
+        <layer label="Day_low" value_type="71" draw_type="selected_res" res_position="52,236" index="1" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png,A100_019.png,A100_020.png,A100_021.png,A100_022.png,A100_023.png,A100_024.png"/>
+        <layer label="Day_high" value_type="70" draw_type="selected_res" res_position="12,236" index="2" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png"/>
+    </element>
+    <element label="time" is_support_option="false">
+        <layer label="Sec_low" value_type="64" draw_type="selected_res" res_position="151,150" index="0" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png,A100_019.png,A100_020.png,A100_021.png,A100_022.png,A100_023.png,A100_024.png"/>
+        <layer label="Sec_high" value_type="63" draw_type="selected_res" res_position="111,150" index="1" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png,A100_019.png,A100_020.png"/>
+        <layer label="Min_low" value_type="62" draw_type="selected_res" res_position="151,84" index="2" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png,A100_019.png,A100_020.png,A100_021.png,A100_022.png,A100_023.png,A100_024.png"/>
+        <layer label="Min_high" value_type="61" draw_type="selected_res" res_position="111,84" index="3" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png,A100_019.png,A100_020.png"/>
+        <layer label="Hour_low" value_type="60" draw_type="selected_res" res_position="52,84" index="4" res_active="A100_015.png,A100_016.png,A100_017.png,A100_018.png,A100_019.png,A100_020.png,A100_021.png,A100_022.png,A100_023.png,A100_024.png"/>
+        <layer label="Hour_high" value_type="59" draw_type="selected_res" res_position="12,84" index="5" res_active="A100_015.png,A100_016.png,A100_017.png"/>
+    </element>
+</watchface>
